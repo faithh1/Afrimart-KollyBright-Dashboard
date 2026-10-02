@@ -17,6 +17,7 @@ An interactive Excel dashboard project developed to provide business insights in
 - Profit Margin: 20%
 ---
 ## Tools Used
+
 Microsoft Excel
 Pivot Tables
 Pivot Charts
@@ -26,7 +27,7 @@ KPI Cards
 Dashboard Design & Data Visualization
 ---
 ## Dashboard Preview
-![Afrimart KollyBright Dashboard](Afrimart-Dashboard)
+![Afrimart-KollyBright-Dashboard](Afrimart-Dashboard)
 ---
 ## Key Insights
 - The business generated over ₦10.4 billion in revenue during the selected period.
